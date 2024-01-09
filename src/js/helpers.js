@@ -1,14 +1,7 @@
 import { async } from 'regenerator-runtime';
 import { TIME_OUT } from './config';
 
-// const { version } = require('process');
-
-//     if (!response.ok) throw new Error(`${data.message}(${response.status})`);
-//     return data;
-//   } catch (err) {
-//     alert(err);
-//   }
-// };
+/
 
 // version 2.0
 
